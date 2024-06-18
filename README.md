@@ -1,3 +1,5 @@
 ## Building Monkey Programming Language
 
-[X] Lexer
+[] Lexer
+[] REPL
+[] Parser
