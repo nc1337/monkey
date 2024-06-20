@@ -2,4 +2,6 @@
 
 - [X] Lexer
 - [X] REPL
-- [ ] Parser
+- [X] Parser
+- [ ] Evaluator
+    
